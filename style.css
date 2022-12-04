@@ -76,6 +76,7 @@ nav {
 
 .description__icon-box {
     text-align: center;
+    margin: 20px;
 }
 
 .description__icon-box img {
@@ -86,3 +87,19 @@ nav {
     margin-right: 0px;
 }
 
+.description__title {
+    font-size: 96px;
+    text-align: center;
+    margin: 0px;
+}
+
+.description__span {
+    color: #F15B40;
+}
+
+.description_paragraph {
+    text-align: center;
+    font-size: 18px;
+    width: 1000px;
+    margin: 0 auto;
+}
